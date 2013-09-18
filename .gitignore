@@ -1,0 +1,7 @@
+flow-*
+xcuserdata/
+project.xcworkspace
+.gradle
+build
+tmp
+userHome
