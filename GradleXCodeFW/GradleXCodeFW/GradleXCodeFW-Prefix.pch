@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'GradleXCodeFW' target in the 'GradleXCodeFW' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
