@@ -1,7 +1,3 @@
-//
-// Prefix header for all source files of the 'GradleXCodeFailingTests' target in the 'GradleXCodeFailingTests' project
-//
-
 #ifdef __OBJC__
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
